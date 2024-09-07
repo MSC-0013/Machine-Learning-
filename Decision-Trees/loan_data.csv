@@ -1,0 +1,11 @@
+Credit_Score,Income,Loan_Amount,Employment_Status,Loan_Status
+700,50000,15000,Employed,Approved
+650,45000,10000,Employed,Approved
+600,40000,12000,Unemployed,Rejected
+720,60000,20000,Employed,Approved
+580,30000,8000,Unemployed,Rejected
+710,55000,17000,Employed,Approved
+620,35000,9000,Unemployed,Rejected
+680,49000,15000,Employed,Approved
+640,42000,11000,Unemployed,Rejected
+690,52000,16000,Employed,Approved
